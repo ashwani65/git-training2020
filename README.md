@@ -5,7 +5,7 @@
 
 ## 1) Git Three Stage Architecture
 
-<img alt="C++" width="500px" height="500px" src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" />
+<img alt="C++" width="300px" height="200px" src="https://static.packt-cdn.com/products/9781782168454/graphics/8454OS_01_4.jpg" />
 <br/>
 
 ## 2) Tracking Git Projects
@@ -22,7 +22,7 @@
 
 ## 3) File Status Lifecycle
 
-<img alt="C++" width="500px" height="500px" src="https://git-scm.com/figures/18333fig0201-tn.png" />
+<img alt="C++" width="300px" height="200px" src="https://git-scm.com/figures/18333fig0201-tn.png" />
 <br/>
 
 ## 4) Git Diff : Changes b/w Staging area and Working Dir
