@@ -10,7 +10,7 @@
 
 ## 2) Tracking Git Projects
 
-1) <b>git init</b>  (Make current Dir and Git Dir)<br/>
+1) <b>git init</b>  (To make current directory as Git directory)<br/>
 2) <b>git status</b> (To see the current status of dir)<br/> 
 3) <b>git add "filename.extension"</b><br/>  
 4) <b>git add --a Or git add . </b><br/>
@@ -76,7 +76,7 @@
 1) <b>git checkout -b newBranchName</b> (Changes in One Branch won't reflect on other branch) <br>
 2) <b>git checkout master</b> (Will Switch to master branch) <br>
 3) <b>git checkout branch1</b> (Switch to other branch "branch1) <br>
-4) <b>git branch </b> (will show the current branch you are on)<br>
+4) <b>git branch </b> (will show the current branch you are in)<br>
 
 ## 12) Branching and Merging
 
